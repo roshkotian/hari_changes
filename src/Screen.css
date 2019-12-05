@@ -1,0 +1,34 @@
+.Screen {
+  text-align: center;
+}
+.MuiSelect-root
+  .MuiSelect-select
+  MuiSelect-selectMenu
+  MuiInputBase-input
+  MuiInput-input
+  MuiInputBase-inputSelect
+  form-control {
+  width: 50% !important;
+}
+
+.MuiFormControl-root {
+  width: 19%;
+}
+
+body {
+  background-color: white;
+}
+
+.MuiSelect-root
+  MuiSelect-select
+  MuiSelect-selectMenu
+  MuiInputBase-input
+  MuiInput-input
+  MuiInputBase-inputSelect {
+  color: white;
+}
+
+.form-control {
+  border-radius: 0px;
+  box-shadow: none;
+}
